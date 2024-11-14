@@ -1,0 +1,13 @@
+.product-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    justify-content: center;
+    margin-top: 100px;
+    background-color: #141414;
+}
+.carousal-slide{
+  color: #fff;
+}
+
+.catlist ul li{ cursor: pointer;}

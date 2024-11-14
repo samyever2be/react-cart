@@ -1,0 +1,43 @@
+.footer{
+    display: flex; 
+    min-height: 300px;
+    margin-top: 80px;  
+    padding: 20px 30px;
+}
+.footer-col{
+   min-width: 25%;
+   text-align: left;
+}
+.footer ul{
+    display: block;
+}
+.footer ul li{
+    line-height: 30px;
+}
+.footer ul li a{
+    color: #a9afc3;
+}
+
+.footer p{
+    color: azure;
+  text-align: left;
+  display: block;
+  position: relative;
+  top: 15px;
+}
+.subscribe-form {
+    display: block;
+    position: relative;
+    top: 28px;
+  }
+  .subscribe-form input {
+    background-color: transparent;
+    border:1px solid  #a9afc3;
+    width: 195px;
+  height: 35px;
+  }
+  .subscribe-form btn{
+    display: block;
+    position: relative;
+    top:15px
+  }

@@ -1,0 +1,32 @@
+.product-detail-container{
+    margin: auto;
+    padding: 20px;
+}
+.product-detail-container .left-side{
+    width: 60%;
+    display: flex;
+}
+.product-detail-container .right-side{
+  width: 40%;  
+}
+.right-side .container{
+    color:#fff;
+}
+.product-detail-container .left-side ul li img{
+    width: 70px;
+}
+.product-detail-wrap{
+    display: flex;
+}
+.product-detail-wrap .left-side ul li {
+    cursor: pointer;
+    margin-bottom: 20px;
+    border: 2px solid #a9afc3;
+    width: 80px;
+}
+.image-zoom {
+margin-left: 200px;
+}
+.image-zoom img{
+    width: 400px;
+}

@@ -1,0 +1,29 @@
+.shop-container{
+    display: flex;
+    min-height: 600px;
+}
+
+.shop-container .left-side{
+    width: 20%;
+    margin-top: 130px;
+  
+}
+.right-side{
+    width: 80%;
+   
+}
+
+.left-side ul{
+    display: block;
+    text-align: left;
+}
+
+.left-side ul li{
+    cursor: pointer;
+}
+.sidebar{
+    padding: 30px;
+}
+.filter-wrapper{
+    margin: 20px;
+}
