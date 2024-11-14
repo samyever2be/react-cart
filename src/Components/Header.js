@@ -6,8 +6,7 @@ const Header = ()=>{
      return(
         <>
         <div className="navbar">
-           <h1>Nav</h1>
-           <div className='logo'><Link to="/">Tech-Shop</Link></div>
+            <div className='logo'><Link to="/">Tech-Shop</Link></div>
            <Navbar/>           
         </div>      
         </>

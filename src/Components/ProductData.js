@@ -5,7 +5,7 @@ const productsData = [
         tagline: "Keep the noise out, or in. You choose.",
         heroImage: "/images/products/jbl660nc-1.png",
         images: [
-            "/images/products/jbl660nc-1.png",
+            "/react-cart/images/products/jbl660nc-1.png",
             "/images/products/jbl660nc-2.png",
             "../images/products/jbl660nc-3.png",
             "../images/products/jbl660nc-4.png",
@@ -28,7 +28,7 @@ const productsData = [
         tag: "featured-product",
         heroImage:"/images/products/boat518-1.png",
         images: [
-            "/images/products/boat518-1.png",
+            "/react-cart/images/products/boat518-1.png",
             "/images/products/boat518-2.png",
             "/images/products/boat518-3.png",
             "/images/products/boat518-4.png"
@@ -52,7 +52,7 @@ const productsData = [
         tagline: "Featherweight for comfort all-day.",
         heroImage: "/images/products/boat131-3.png",
         images: [
-            "/images/products/boat131-1.png",
+            "/react-cart/images/products/boat131-1.png",
             "../images/products/boat131-2.png",
             "../images/products/boat131-3.png",
             "../images/products/boat131-4.png",
